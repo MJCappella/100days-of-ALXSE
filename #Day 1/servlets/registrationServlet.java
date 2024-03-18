@@ -16,7 +16,7 @@ public class registrationServlet extends HttpServlet {
     // JDBC URL, username, and password
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/arclaundrymanagement";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "";
+    private static final String PASSWORD = "<your password>";
 
     // JDBC driver class name
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
