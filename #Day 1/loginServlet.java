@@ -17,7 +17,7 @@ public class loginServlet extends HttpServlet {
 
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/arclaundrymanagement";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "mjay0001";
+    private static final String PASSWORD = "<your password>";
 
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
